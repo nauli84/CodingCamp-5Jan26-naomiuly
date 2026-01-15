@@ -1,3 +1,0 @@
-> git push origin main:main
-remote: Repository not found.
-fatal: repository 'https://github.com/nauli84/CodingCamp-5Jan26-naomiuly.git/' not found
